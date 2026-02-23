@@ -1,0 +1,13 @@
+.container{
+    width: 350px;
+    color: hotpink;
+    margin: 10px auto;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px color(srgb rgb(208, 136, 136) rgb(170, 225, 170) rgb(213, 213, 244));
+}
+#errorMsg{
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+}
